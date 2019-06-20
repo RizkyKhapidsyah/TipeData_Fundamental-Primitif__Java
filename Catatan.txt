@@ -1,0 +1,8 @@
+Nilai Maksimum.
+
+Integer (int)	= 2147483647
+Byte (byte)	= 127		
+Short (short)	= 32767
+Float (float)	= 3.4028235E38
+Double (double)	= 1.7976931348623157E308
+Long (long)	= 9223372036854775807
